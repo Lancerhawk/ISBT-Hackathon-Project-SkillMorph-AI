@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Professional Learning Platform</title>
-</head>
-<body>
+
     <h1>Professional Learning Platform</h1>
 
     <section>
@@ -80,6 +73,3 @@
             <li><strong>Cross-Tech Tasks:</strong> Weekly tasks from other domains are available to help users broaden their learning and enhance logical thinking.</li>
         </ul>
     </section>
-
-</body>
-</html>
